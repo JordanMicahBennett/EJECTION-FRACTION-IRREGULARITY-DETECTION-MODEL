@@ -77,9 +77,5 @@ Adjustment(s) ~
 	
 	
 	
-	
-	
-	
-	
-. Framework information
-	MXNet is a deep learning framework designed for both efficiency and flexibility by DMLC group. Like all other packages in DMLC, it will fully utilize all the resources to solve the problem under limited resource constraint, with a flexible programming interface. You can use it for all purposes of data science and deep learning tasks with R, Julia, python and more.
+Public leader-board ranking existed as high as 76/500+, at the boundary of the competition's end:
+![Alt text](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/source-code/data/images/captures/0.png?raw=true"default page")
