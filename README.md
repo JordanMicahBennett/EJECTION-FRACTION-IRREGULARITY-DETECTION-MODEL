@@ -77,5 +77,5 @@ Adjustment(s) ~
 	
 	
 	
-Public leader-board ranking existed as high as 76/500+, at the boundary of the competition's end:
+Public leader-board ranking existed as 'high' as 76/500+, at the boundary of the global competition's (kaggle - Second Annual Data Science Bowl) end:
 ![Alt text](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/data/images/captures/0.png?raw=true"default page")
