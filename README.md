@@ -11,6 +11,7 @@ Adjustment(s) ~
 
 
 
+
 . Model Synopsis
 	... Input Data Architecture
 		*Predominantly, 30 frames per sequence.
