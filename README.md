@@ -1,11 +1,15 @@
 
 
-https://www.kaggle.com/jordanmicahbennett
+Competition profile: https://www.kaggle.com/jordanmicahbennett
 
 Author ~ Jordan Micah Bennett
+
 Aim ~ Kaggle Second Annual Data Science Bowl (global competition)
+
 Outcome ~ 145/755.
+
 Framework ~ Bing Xu's Mxnet Ejection Fraction Irregularity Detection Template.
+
 Adjustment(s) ~ 
 	+Doffing of classic leNet Architecture (Substitute ~ Deep Residual Neural Network)
 	+Doffing of Xavier Initialization (Substitute ~ None)
