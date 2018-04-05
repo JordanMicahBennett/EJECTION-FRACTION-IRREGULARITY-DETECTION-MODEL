@@ -1,3 +1,7 @@
+
+
+https://www.kaggle.com/jordanmicahbennett
+
 Author ~ Jordan Micah Bennett
 Aim ~ Kaggle Second Annual Data Science Bowl (global competition)
 Outcome ~ 145/755.
