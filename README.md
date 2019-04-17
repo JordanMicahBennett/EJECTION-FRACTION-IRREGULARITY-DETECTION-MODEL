@@ -22,9 +22,9 @@ Original Framework
 
 Crucial Adjustment(s)
 ==== 
-1. Removal of classic leNet Architecture seen in get_lenet() in [train.py of old code](https://github.com/apache/incubator-mxnet/tree/master/example/kaggle-ndsb2) 
+1. Removal of classic leNet Architecture seen in get_lenet() (about 20 lines of code) in [train.py of old code](https://github.com/apache/incubator-mxnet/tree/master/example/kaggle-ndsb2). 
 
-	i. Replaced classic leNet Architecture with Deep Residual Neural Network, as seen in [my modification of train.py](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/Train.py), including get_symbol(), about 60 lines of code including conv_factory; [found elsewhere](https://github.com/freesouls/Deep-Residual-Network-For-MXNet.)
+	i. Replaced classic leNet Architecture with Deep Residual Neural Network, as seen in [my modification of train.py](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/Train.py), including get_symbol(), (about 60 lines of code including conv_factory); [found elsewhere](https://github.com/freesouls/Deep-Residual-Network-For-MXNet).
 	
 2. Removal of Xavier Initialization.
 
