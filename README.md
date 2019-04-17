@@ -1,6 +1,7 @@
 
 
 Overall Competition profile: https://www.kaggle.com/jordanmicahbennett
+
 Contest page: https://www.kaggle.com/c/second-annual-data-science-bowl
 
 Author
@@ -33,9 +34,9 @@ Crucial Adjustment(s)
 
 The Winning code, and computation
 ====
-Unfortunately, due to the 60 US dollar gt 720 GPU that I used, I could only train up to 20 layers, (as indicated in  n = 2 from get_symbol function in [train.py](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/Train.py))
+Unfortunately, due to the 60 US dollar gt 720 GPU that I used, I could only train up to **20 layers before my computer actually died after ~20 hours of training**, (as indicated in  n = 2 from get_symbol function in [train.py](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL/blob/master/Train.py))
 
-[The winners Tencia and "Woshialex"](https://github.com/woshialex/diagnose-heart) by comparson, used a gtx 970 GPU and gtx 980 GPU, with a combined cost of almost 2000 US dollars at the time. Their architecture was smart, but they were also able to use 36 layers at minimum), based on [their documentation](https://github.com/woshialex/diagnose-heart/blob/master/TenciaWoshialex_model_documentation.pdf), seen in the convolutional neural network architecture, in the table after in section 3. Deep learning models are power hungry beasts :]
+[The winners Tencia and "Woshialex"](https://github.com/woshialex/diagnose-heart) by comparson, used a gtx 970 GPU and gtx 980 GPU, with a combined cost of almost 2000 US dollars at the time. Their architecture was smart, and crucially, they were also able to use **36 layers** at minimum), based on [their documentation](https://github.com/woshialex/diagnose-heart/blob/master/TenciaWoshialex_model_documentation.pdf), seen in the convolutional neural network architecture, in the table after in section 3. Deep learning models are power hungry beasts :] Faster GPUS allow for both deeper layers, and faster training times, due to more parallelization strategies avaialble in more expensive GPU hardware, the same parallelization needed for matrix multiplication largely found in neural networks.
 
 
 Model Synopsis
